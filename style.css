@@ -1,0 +1,29 @@
+/* Set a background color for the body */
+body {
+    background-color: #f4f4f4;
+    font-family: 'Georgia', serif;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Style the main header */
+header h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+/* Style sub-headings for each article */
+h2 {
+    font-size: 1.8em;
+    color: #0044cc;
+    margin-top: 30px;
+}
+
+/* Style paragraphs */
+p {
+    margin: 10px 0;
+}
+
+/* Add more styles for emphasis, quotes, and other elements if needed */
